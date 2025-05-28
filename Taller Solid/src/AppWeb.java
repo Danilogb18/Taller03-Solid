@@ -8,8 +8,5 @@ public class AppWeb {
     public AppWeb (LogInAdmin logInAdmin, MySQL mySQL) {
         // Logic
     }
-    public void connectToDatabase (MySQL mySQL) {
-        // Logic
-    }
 }
 
